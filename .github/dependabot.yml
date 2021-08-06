@@ -14,3 +14,4 @@ updates:
     commit-message:
       prefix: "chore(deps): "
     rebase-strategy: "disabled"
+    
